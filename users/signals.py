@@ -17,7 +17,7 @@ def createProfile(sender, instance, created, **kwargs):
             name=user.first_name,
         )
         subject = 'Hi. Welcome to Connect'
-        message='Hi there,  My name is Daxit and I am the CEO here at Connect. '
+        message='Hi there,  My name is Daxit and I am the CEO here at Connectwith. Thank you for Registration in our site '
         
 
 
